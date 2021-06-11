@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Chao 👋
-- 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 \
 - 🌱 I’m currently doing my PhD of Material Science in the University of Queensland.
 - :muscle: Hope I can do something interesting here.
 
