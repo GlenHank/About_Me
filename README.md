@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chao 👋
 - 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 👀 \
 - 🌱 I’m currently doing my PhD of Material Science in the University of Queensland.
-- :muscle:
+- :muscle: Hope I can do something interesting here.
 
 <!---
 GlenHank/GlenHank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
